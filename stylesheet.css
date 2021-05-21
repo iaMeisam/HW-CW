@@ -1,0 +1,21 @@
+body{
+    padding: 2% 5% 2% 5%;
+    background-color:black ;
+}
+.content{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: auto;
+}
+img{
+    border-radius: 20%;
+    height: 210px;
+}
+li{
+    text-align: center;
+}
+.contact{
+    color: burlywood;
+    line-height: 1cm;
+    text-align: center;
+}
