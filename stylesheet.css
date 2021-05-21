@@ -1,11 +1,10 @@
 body{
     padding: 2% 5% 2% 5%;
-    background-color:black ;
+    background-color:rgb(158, 140, 36) ;
 }
 .content{
-    text-align: center;
-    background-color: blanchedalmond;
-    padding: auto;
+    text-align: right;
+    background-color: rgb(35, 179, 179);
 }
 img{
     border-radius: 20%;
@@ -15,7 +14,7 @@ li{
     text-align: center;
 }
 .contact{
-    color: burlywood;
-    line-height: 1cm;
-    text-align: center;
+    color: rgb(136, 93, 38);
+    line-height: 1.5cm;
+    text-align: left;
 }
